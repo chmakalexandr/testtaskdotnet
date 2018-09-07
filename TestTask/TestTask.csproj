@@ -55,6 +55,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextOperations.cs" />
+    <Compile Include="UnitTestTask.cs" />
     <Compile Include="Word.cs" />
   </ItemGroup>
   <ItemGroup>
