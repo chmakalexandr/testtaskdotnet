@@ -38,7 +38,7 @@ namespace TestTask
             }
             catch (Exception e)
             {
-                Console.WriteLine("Нельзя прочесть файл:");
+                Console.WriteLine("Ошибка при выполнении программы:");
                 Console.WriteLine(e.Message);
             }
         }
